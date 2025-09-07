@@ -1,4 +1,4 @@
-# Simple Calculator
+#  Simple Calculator
 
 # add two numbers
 def add(x, y):
